@@ -1,5 +1,6 @@
 {
   "name": "vue-tageditor",
+  "version": "0.0.1",
   "description": "vue tag editor ",
   "author": "Peilonghui <peilonghui@baijiahulian.com>",
   "private": true,
